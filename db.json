@@ -1,84 +1,115 @@
 {
   "peliculas": [
     {
-      "titulo": "Iron Man",
-      "descripcion": "Tony Stark construye un traje blindado y se convierte en el superhéroe Iron Man."
+      "titulo": "Avengers: Endgame",
+      "descripcion": "Los héroes de Marvel se unen para derrotar a Thanos y restaurar el equilibrio en el universo.",
+      "idiomasDisponible": ["ESP", "ENG"],
+      "restriccionEdad": "PG-13",
+      "categorias": ["ACCION", "CIENCIA_FICCION"],
+      "reparto": [
+        {"nombre": "Robert Downey Jr.", "personaje": "Tony Stark / Iron Man"},
+        {"nombre": "Chris Evans", "personaje": "Steve Rogers / Capitán América"},
+        {"nombre": "Scarlett Johansson", "personaje": "Natasha Romanoff / Viuda Negra"}
+      ]
     },
     {
-      "titulo": "The Incredible Hulk",
-      "descripcion": "Bruce Banner se transforma en Hulk después de un experimento que sale mal."
+      "titulo": "The Shawshank Redemption",
+      "descripcion": "Dos hombres encuentran esperanza en una cárcel mientras forman una inesperada amistad.",
+      "idiomasDisponible": ["ESP", "ENG"],
+      "restriccionEdad": "R",
+      "categorias": ["DRAMA"],
+      "reparto": [
+        {"nombre": "Tim Robbins", "personaje": "Andy Dufresne"},
+        {"nombre": "Morgan Freeman", "personaje": "Ellis Boyd 'Red' Redding"}
+      ]
     },
     {
-      "titulo": "Thor",
-      "descripcion": "Thor, el dios del trueno, es desterrado a la Tierra y debe aprender a ser un verdadero héroe."
+      "titulo": "Inception",
+      "descripcion": "Dom Cobb realiza atracos corporativos usando tecnología que permite el robo de secretos.",
+      "idiomasDisponible": ["ESP", "ENG"],
+      "restriccionEdad": "PG-13",
+      "categorias": ["CIENCIA_FICCION", "ACCION"],
+      "reparto": [
+        {"nombre": "Leonardo DiCaprio", "personaje": "Dom Cobb"},
+        {"nombre": "Joseph Gordon-Levitt", "personaje": "Arthur"}
+      ]
     },
     {
-      "titulo": "Captain America: The First Avenger",
-      "descripcion": "Steve Rogers se somete a un experimento que lo convierte en el super soldado Captain America."
+      "titulo": "The Dark Knight",
+      "descripcion": "Batman enfrenta al Joker, un criminal maestro que busca sumir a Gotham en el caos.",
+      "idiomasDisponible": ["ESP", "ENG"],
+      "restriccionEdad": "PG-13",
+      "categorias": ["ACCION", "DRAMA"],
+      "reparto": [
+        {"nombre": "Christian Bale", "personaje": "Bruce Wayne / Batman"},
+        {"nombre": "Heath Ledger", "personaje": "Joker"}
+      ]
     },
     {
-      "titulo": "The Avengers",
-      "descripcion": "Los héroes de Marvel se unen para enfrentarse a la amenaza de Loki y su ejército alienígena."
+      "titulo": "Forrest Gump",
+      "descripcion": "Forrest Gump vive una vida notable, influyendo en eventos importantes de la historia.",
+      "idiomasDisponible": ["ESP", "ENG"],
+      "restriccionEdad": "PG-13",
+      "categorias": ["DRAMA"],
+      "reparto": [
+        {"nombre": "Tom Hanks", "personaje": "Forrest Gump"},
+        {"nombre": "Robin Wright", "personaje": "Jenny Curran"}
+      ]
     },
     {
-      "titulo": "Iron Man 3",
-      "descripcion": "Tony Stark enfrenta a un nuevo enemigo, el Mandarín, mientras lidia con sus propios demonios."
+      "titulo": "Pulp Fiction",
+      "descripcion": "Varias historias se entrelazan en Los Ángeles, explorando el crimen y la redención.",
+      "idiomasDisponible": ["ESP", "ENG"],
+      "restriccionEdad": "R",
+      "categorias": ["DRAMA", "CRIMEN"],
+      "reparto": [
+        {"nombre": "John Travolta", "personaje": "Vincent Vega"},
+        {"nombre": "Samuel L. Jackson", "personaje": "Jules Winnfield"}
+      ]
     },
     {
-      "titulo": "Thor: The Dark World",
-      "descripcion": "Thor lucha para salvar los Nueve Reinos de una antigua raza liderada por el vengativo Malekith."
+      "titulo": "The Matrix",
+      "descripcion": "Neo descubre la verdad sobre su realidad y lidera una rebelión contra las máquinas.",
+      "idiomasDisponible": ["ESP", "ENG"],
+      "restriccionEdad": "R",
+      "categorias": ["CIENCIA_FICCION", "ACCION"],
+      "reparto": [
+        {"nombre": "Keanu Reeves", "personaje": "Neo"},
+        {"nombre": "Carrie-Anne Moss", "personaje": "Trinity"}
+      ]
     },
     {
-      "titulo": "Captain America: The Winter Soldier",
-      "descripcion": "Steve Rogers se une a Black Widow para desentrañar una conspiración dentro de S.H.I.E.L.D."
+      "titulo": "The Godfather",
+      "descripcion": "La familia Corleone enfrenta desafíos y traiciones en el mundo del crimen organizado.",
+      "idiomasDisponible": ["ESP", "ENG"],
+      "restriccionEdad": "R",
+      "categorias": ["DRAMA", "CRIMEN"],
+      "reparto": [
+        {"nombre": "Marlon Brando", "personaje": "Vito Corleone"},
+        {"nombre": "Al Pacino", "personaje": "Michael Corleone"}
+      ]
     },
     {
-      "titulo": "Guardians of the Galaxy",
-      "descripcion": "Un grupo de inadaptados se une para proteger una poderosa gema del infinito."
+      "titulo": "Schindler's List",
+      "descripcion": "Oskar Schindler salva a judíos durante el Holocausto, mostrando la capacidad humana para el bien.",
+      "idiomasDisponible": ["ESP", "ENG"],
+      "restriccionEdad": "R",
+      "categorias": ["DRAMA", "HISTORIA"],
+      "reparto": [
+        {"nombre": "Liam Neeson", "personaje": "Oskar Schindler"},
+        {"nombre": "Ben Kingsley", "personaje": "Itzhak Stern"}
+      ]
     },
     {
-      "titulo": "Avengers: Age of Ultron",
-      "descripcion": "Los Vengadores enfrentan a Ultron, una inteligencia artificial decidida a erradicar a la humanidad."
+      "titulo": "The Silence of the Lambs",
+      "descripcion": "Una agente del FBI busca la ayuda de Hannibal Lecter para atrapar a un asesino en serie.",
+      "idiomasDisponible": ["ESP", "ENG"],
+      "restriccionEdad": "R",
+      "categorias": ["CRIMEN", "THRILLER"],
+      "reparto": [
+        {"nombre": "Jodie Foster", "personaje": "Clarice Starling"},
+        {"nombre": "Anthony Hopkins", "personaje": "Hannibal Lecter"}
+      ]
     },
-    {
-      "titulo": "Ant-Man",
-      "descripcion": "Scott Lang, un ladrón habilidoso, se convierte en el héroe Ant-Man con la ayuda de un traje especial."
-    },
-    {
-      "titulo": "Captain America: Civil War",
-      "descripcion": "Los Vengadores se dividen en dos facciones, lideradas por Iron Man y Captain America, debido a diferencias ideológicas."
-    },
-    {
-      "titulo": "Doctor Strange",
-      "descripcion": "El neurocirujano Stephen Strange adquiere poderes místicos después de un accidente automovilístico."
-    },
-    {
-      "titulo": "Guardians of the Galaxy Vol. 2",
-      "descripcion": "Los Guardianes descubren más sobre el pasado de Star-Lord mientras enfrentan nuevas amenazas."
-    },
-    {
-      "titulo": "Spider-Man: Homecoming",
-      "descripcion": "Peter Parker equilibra la vida de estudiante con la de superhéroe mientras enfrenta al Buitre."
-    },
-    {
-      "titulo": "Thor: Ragnarok",
-      "descripcion": "Thor lucha por salvar Asgard del Ragnarok y la amenaza de su hermana, Hela."
-    },
-    {
-      "titulo": "Black Panther",
-      "descripcion": "T'Challa asume el trono de Wakanda y se convierte en el héroe Black Panther, pero enfrenta desafíos internos y externos."
-    },
-    {
-      "titulo": "Avengers: Infinity War",
-      "descripcion": "Thanos busca las gemas del infinito para llevar a cabo su plan de destrucción masiva, enfrentando a los Vengadores y sus aliados."
-    },
-    {
-      "titulo": "Ant-Man and The Wasp",
-      "descripcion": "Scott Lang se une a Hope van Dyne para enfrentarse a nuevos desafíos como Ant-Man y la Avispa."
-    },
-    {
-      "titulo": "Captain Marvel",
-      "descripcion": "Carol Danvers descubre su verdadera identidad como Captain Marvel mientras enfrenta amenazas extraterrestres."
-    }
   ]
 }
