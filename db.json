@@ -3,10 +3,11 @@
     {
       "titulo": "Avengers: Endgame",
       "descripcion": "Los héroes de Marvel se unen para derrotar a Thanos y restaurar el equilibrio en el universo.",
-      "idiomasDisponible": ["ESP", "ENG"],
-      "restriccionEdad": "PG-13",
-      "categorias": ["ACCION", "CIENCIA_FICCION"],
-      "reparto": [
+      "urlImagen": "https://www.ecartelera.com/carteles/8900/8902/041_m.jpg",
+      "idiomasDisponible": ["Español", "Inglés"],
+      "restriccionEdad": "Apta para todos los públicos",
+      "categorias": ["Acción", "Ciencia Ficción", "Animación"],
+      "actores": [
         {"nombre": "Robert Downey Jr.", "personaje": "Tony Stark / Iron Man"},
         {"nombre": "Chris Evans", "personaje": "Steve Rogers / Capitán América"},
         {"nombre": "Scarlett Johansson", "personaje": "Natasha Romanoff / Viuda Negra"}
@@ -15,10 +16,11 @@
     {
       "titulo": "The Shawshank Redemption",
       "descripcion": "Dos hombres encuentran esperanza en una cárcel mientras forman una inesperada amistad.",
-      "idiomasDisponible": ["ESP", "ENG"],
-      "restriccionEdad": "R",
-      "categorias": ["DRAMA"],
-      "reparto": [
+      "urlImagen": "https://www.ecartelera.com/carteles/5600/5676/003_m.jpg",
+      "idiomasDisponible": ["Español", "Francés"],
+      "restriccionEdad": "Mayores de 18 años",
+      "categorias": ["Comedia"],
+      "actores": [
         {"nombre": "Tim Robbins", "personaje": "Andy Dufresne"},
         {"nombre": "Morgan Freeman", "personaje": "Ellis Boyd 'Red' Redding"}
       ]
@@ -26,10 +28,11 @@
     {
       "titulo": "Inception",
       "descripcion": "Dom Cobb realiza atracos corporativos usando tecnología que permite el robo de secretos.",
-      "idiomasDisponible": ["ESP", "ENG"],
-      "restriccionEdad": "PG-13",
-      "categorias": ["CIENCIA_FICCION", "ACCION"],
-      "reparto": [
+      "urlImagen": "https://www.ecartelera.com/carteles/3300/3399/002_m.jpg",
+      "idiomasDisponible": ["Español", "Italiano"],
+      "restriccionEdad": "Mayores de 13 años",
+      "categorias": ["Ciencia Ficción", "Acción"],
+      "actores": [
         {"nombre": "Leonardo DiCaprio", "personaje": "Dom Cobb"},
         {"nombre": "Joseph Gordon-Levitt", "personaje": "Arthur"}
       ]
@@ -37,10 +40,11 @@
     {
       "titulo": "The Dark Knight",
       "descripcion": "Batman enfrenta al Joker, un criminal maestro que busca sumir a Gotham en el caos.",
-      "idiomasDisponible": ["ESP", "ENG"],
-      "restriccionEdad": "PG-13",
-      "categorias": ["ACCION", "DRAMA"],
-      "reparto": [
+      "urlImagen": "https://es.web.img2.acsta.net/medias/nmedia/18/66/74/01/20350623.jpg",
+      "idiomasDisponible": ["Español", "Ruso"],
+      "restriccionEdad": "Mayores de 7 años",
+      "categorias": ["Acción", "Drama", "Ciencia Ficción"],
+      "actores": [
         {"nombre": "Christian Bale", "personaje": "Bruce Wayne / Batman"},
         {"nombre": "Heath Ledger", "personaje": "Joker"}
       ]
@@ -48,10 +52,11 @@
     {
       "titulo": "Forrest Gump",
       "descripcion": "Forrest Gump vive una vida notable, influyendo en eventos importantes de la historia.",
-      "idiomasDisponible": ["ESP", "ENG"],
-      "restriccionEdad": "PG-13",
-      "categorias": ["DRAMA"],
-      "reparto": [
+      "urlImagen": "https://www.ecartelera.com/carteles/3400/3475/001_m.jpg",
+      "idiomasDisponible": ["Ruso", "Inglés"],
+      "restriccionEdad": "Apta para todos los públicos",
+      "categorias": ["Drama"],
+      "actores": [
         {"nombre": "Tom Hanks", "personaje": "Forrest Gump"},
         {"nombre": "Robin Wright", "personaje": "Jenny Curran"}
       ]
@@ -59,10 +64,11 @@
     {
       "titulo": "Pulp Fiction",
       "descripcion": "Varias historias se entrelazan en Los Ángeles, explorando el crimen y la redención.",
-      "idiomasDisponible": ["ESP", "ENG"],
-      "restriccionEdad": "R",
-      "categorias": ["DRAMA", "CRIMEN"],
-      "reparto": [
+      "urlImagen": "https://www.ecartelera.com/carteles/200/286/001_m.jpg",
+      "idiomasDisponible": ["Español", "Inglés"],
+      "restriccionEdad": "Apta para todos los públicos",
+      "categorias": ["Drama", "Terror"],
+      "actores": [
         {"nombre": "John Travolta", "personaje": "Vincent Vega"},
         {"nombre": "Samuel L. Jackson", "personaje": "Jules Winnfield"}
       ]
@@ -70,10 +76,11 @@
     {
       "titulo": "The Matrix",
       "descripcion": "Neo descubre la verdad sobre su realidad y lidera una rebelión contra las máquinas.",
-      "idiomasDisponible": ["ESP", "ENG"],
-      "restriccionEdad": "R",
-      "categorias": ["CIENCIA_FICCION", "ACCION"],
-      "reparto": [
+      "urlImagen": "https://www.ecartelera.com/carteles/4100/4109/002_m.jpg",
+      "idiomasDisponible": ["Francés", "Italiano"],
+      "restriccionEdad": "Mayores de 7 años",
+      "categorias": ["Ciencia Ficción", "Drama"],
+      "actores": [
         {"nombre": "Keanu Reeves", "personaje": "Neo"},
         {"nombre": "Carrie-Anne Moss", "personaje": "Trinity"}
       ]
@@ -81,10 +88,11 @@
     {
       "titulo": "The Godfather",
       "descripcion": "La familia Corleone enfrenta desafíos y traiciones en el mundo del crimen organizado.",
-      "idiomasDisponible": ["ESP", "ENG"],
-      "restriccionEdad": "R",
-      "categorias": ["DRAMA", "CRIMEN"],
-      "reparto": [
+      "urlImagen": "https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/QNONZIS3RZO3JD6GAIEMSIJM2E.jpg",
+      "idiomasDisponible": ["Italiano", "Español"],
+      "restriccionEdad": "Mayores de 13 años",
+      "categorias": ["Acción", "Comedia"],
+      "actores": [
         {"nombre": "Marlon Brando", "personaje": "Vito Corleone"},
         {"nombre": "Al Pacino", "personaje": "Michael Corleone"}
       ]
@@ -92,10 +100,11 @@
     {
       "titulo": "Schindler's List",
       "descripcion": "Oskar Schindler salva a judíos durante el Holocausto, mostrando la capacidad humana para el bien.",
-      "idiomasDisponible": ["ESP", "ENG"],
-      "restriccionEdad": "R",
-      "categorias": ["DRAMA", "HISTORIA"],
-      "reparto": [
+      "urlImagen": "https://www.ecartelera.com/carteles/2500/2529/001_m.jpg",
+      "idiomasDisponible": ["Francés", "Inglés"],
+      "restriccionEdad": "Mayores de 18 años",
+      "categorias": ["Drama"],
+      "actores": [
         {"nombre": "Liam Neeson", "personaje": "Oskar Schindler"},
         {"nombre": "Ben Kingsley", "personaje": "Itzhak Stern"}
       ]
@@ -103,13 +112,14 @@
     {
       "titulo": "The Silence of the Lambs",
       "descripcion": "Una agente del FBI busca la ayuda de Hannibal Lecter para atrapar a un asesino en serie.",
-      "idiomasDisponible": ["ESP", "ENG"],
-      "restriccionEdad": "R",
-      "categorias": ["CRIMEN", "THRILLER"],
-      "reparto": [
+      "urlImagen": "https://www.ecartelera.com/carteles/2500/2508/001_m.jpg",
+      "idiomasDisponible": ["Español", "Ruso"],
+      "restriccionEdad": "Mayores de 18 años",
+      "categorias": ["Terror", "Acción"],
+      "actores": [
         {"nombre": "Jodie Foster", "personaje": "Clarice Starling"},
         {"nombre": "Anthony Hopkins", "personaje": "Hannibal Lecter"}
       ]
-    },
+    }
   ]
 }
