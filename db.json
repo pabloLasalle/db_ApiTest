@@ -5,7 +5,7 @@
       "descripcion": "Los héroes de Marvel se unen para derrotar a Thanos y restaurar el equilibrio en el universo.",
       "urlImagen": "https://www.ecartelera.com/carteles/8900/8902/041_m.jpg",
       "idiomasDisponible": ["ESP", "ENG"],
-      "restriccionEdad": "Apta para todos los públicos",
+      "restriccionEdad": "TODO_PUBLICO",
       "categorias": ["ACCION", "CIENCIA_FICCION", "ANIMACION"],
       "actores": [
         {"nombre": "Robert Downey Jr.", "personaje": "Tony Stark / Iron Man"},
@@ -18,7 +18,7 @@
       "descripcion": "Dos hombres encuentran esperanza en una cárcel mientras forman una inesperada amistad.",
       "urlImagen": "https://www.ecartelera.com/carteles/5600/5676/003_m.jpg",
       "idiomasDisponible": ["ESP", "FRA"],
-      "restriccionEdad": "Mayores de 18 años",
+      "restriccionEdad": "MAYORES_DE_18",
       "categorias": ["COMEDIA"],
       "actores": [
         {"nombre": "Tim Robbins", "personaje": "Andy Dufresne"},
@@ -30,7 +30,7 @@
       "descripcion": "Dom Cobb realiza atracos corporativos usando tecnología que permite el robo de secretos.",
       "urlImagen": "https://www.ecartelera.com/carteles/3300/3399/002_m.jpg",
       "idiomasDisponible": ["ESP", "ITA"],
-      "restriccionEdad": "Mayores de 13 años",
+      "restriccionEdad": "MAYORES_DE_13",
       "categorias": ["CIENCIA_FICCION", "ACCION"],
       "actores": [
         {"nombre": "Leonardo DiCaprio", "personaje": "Dom Cobb"},
@@ -42,7 +42,7 @@
       "descripcion": "Batman enfrenta al Joker, un criminal maestro que busca sumir a Gotham en el caos.",
       "urlImagen": "https://es.web.img2.acsta.net/medias/nmedia/18/66/74/01/20350623.jpg",
       "idiomasDisponible": ["ESP", "RUS"],
-      "restriccionEdad": "Mayores de 7 años",
+      "restriccionEdad": "MAYORES_DE_7",
       "categorias": ["ACCION", "DRAMA", "CIENCIA_FICCION"],
       "actores": [
         {"nombre": "Christian Bale", "personaje": "Bruce Wayne / Batman"},
@@ -54,7 +54,7 @@
       "descripcion": "Forrest Gump vive una vida notable, influyendo en eventos importantes de la historia.",
       "urlImagen": "https://www.ecartelera.com/carteles/3400/3475/001_m.jpg",
       "idiomasDisponible": ["RUS", "ENG"],
-      "restriccionEdad": "Apta para todos los públicos",
+      "restriccionEdad": "TODO_PUBLICO",
       "categorias": ["DRAMA"],
       "actores": [
         {"nombre": "Tom Hanks", "personaje": "Forrest Gump"},
@@ -66,7 +66,7 @@
       "descripcion": "Varias historias se entrelazan en Los Ángeles, explorando el crimen y la redención.",
       "urlImagen": "https://www.ecartelera.com/carteles/200/286/001_m.jpg",
       "idiomasDisponible": ["ESP", "ENG"],
-      "restriccionEdad": "Apta para todos los públicos",
+      "restriccionEdad": "TODO_PUBLICO",
       "categorias": ["DRAMA", "TERROR"],
       "actores": [
         {"nombre": "John Travolta", "personaje": "Vincent Vega"},
@@ -78,7 +78,7 @@
       "descripcion": "Neo descubre la verdad sobre su realidad y lidera una rebelión contra las máquinas.",
       "urlImagen": "https://www.ecartelera.com/carteles/4100/4109/002_m.jpg",
       "idiomasDisponible": ["FRA", "ITA"],
-      "restriccionEdad": "Mayores de 7 años",
+      "restriccionEdad": "MAYORES_DE_7",
       "categorias": ["CIENCIA_FICCION", "DRAMA"],
       "actores": [
         {"nombre": "Keanu Reeves", "personaje": "Neo"},
@@ -90,7 +90,7 @@
       "descripcion": "La familia Corleone enfrenta desafíos y traiciones en el mundo del crimen organizado.",
       "urlImagen": "https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/QNONZIS3RZO3JD6GAIEMSIJM2E.jpg",
       "idiomasDisponible": ["ITA", "ESP"],
-      "restriccionEdad": "Mayores de 13 años",
+      "restriccionEdad": "MAYORES_DE_13",
       "categorias": ["ACCION", "COMEDIA"],
       "actores": [
         {"nombre": "Marlon Brando", "personaje": "Vito Corleone"},
@@ -102,7 +102,7 @@
       "descripcion": "Oskar Schindler salva a judíos durante el Holocausto, mostrando la capacidad humana para el bien.",
       "urlImagen": "https://www.ecartelera.com/carteles/2500/2529/001_m.jpg",
       "idiomasDisponible": ["FRA", "ENG"],
-      "restriccionEdad": "Mayores de 18 años",
+      "restriccionEdad": "MAYORES_DE_18",
       "categorias": ["DRAMA"],
       "actores": [
         {"nombre": "Liam Neeson", "personaje": "Oskar Schindler"},
@@ -114,7 +114,7 @@
       "descripcion": "Una agente del FBI busca la ayuda de Hannibal Lecter para atrapar a un asesino en serie.",
       "urlImagen": "https://www.ecartelera.com/carteles/2500/2508/001_m.jpg",
       "idiomasDisponible": ["ESP", "RUS"],
-      "restriccionEdad": "Mayores de 18 años",
+      "restriccionEdad": "MAYORES_DE_18",
       "categorias": ["TERROR", "ACCION"],
       "actores": [
         {"nombre": "Jodie Foster", "personaje": "Clarice Starling"},
